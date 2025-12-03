@@ -1,6 +1,6 @@
 package mygit;
 
-// 2nd version
+// dev version
 
 public class MyClass {
 
