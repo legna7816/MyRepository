@@ -1,6 +1,7 @@
 package mygit;
 
 // 2nd version
+// My changed in master brach
 
 public class MyClass {
 
